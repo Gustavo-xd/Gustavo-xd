@@ -1,4 +1,4 @@
-## Oiii eu sou a Gustavo Patez!!
+## Oiii eu sou Gustavo Patez!!
 <div align="center">
   <a href="https://github.com/Gustavo-xd">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavo-xd&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
